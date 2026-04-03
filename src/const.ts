@@ -54,7 +54,7 @@ export const PropertyTypeMap: Record<DB_PROPERTIES_KEYS, NotionPropTypesEnum> = 
   IMDB_LINK: NotionPropTypesEnum.URL,
   RELEASE_DATE: NotionPropTypesEnum.DATE,
   MUSICIAN: NotionPropTypesEnum.RICH_TEXT,
-  PUBLICATION_DATE: NotionPropTypesEnum.DATE,
+  PUBLICATION_DATE: NotionPropTypesEnum.RICH_TEXT,
   PUBLISHING_HOUSE: NotionPropTypesEnum.RICH_TEXT,
   WRITER: NotionPropTypesEnum.RICH_TEXT,
   ISBN: NotionPropTypesEnum.NUMBER,
